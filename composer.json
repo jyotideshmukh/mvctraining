@@ -1,0 +1,17 @@
+{
+    "name": "jyotipawar/training",
+    "description": "This is demo website with OOPS as training",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jyotideshmukh",
+            "email": "jyotipawar2003@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
